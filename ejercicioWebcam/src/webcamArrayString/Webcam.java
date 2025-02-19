@@ -225,14 +225,6 @@ package webcamArrayString;
 
 
 
-    public void cambiarResolucion(){}
-
-    public void consumoDatos(){}
-
-
-
-
-
 
 
 

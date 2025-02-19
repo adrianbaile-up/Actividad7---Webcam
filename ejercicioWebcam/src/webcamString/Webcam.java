@@ -245,12 +245,6 @@ package webcamString;
 
 
 
-    public void cambiarResolucion(){}
-
-    public void consumoDatos(){}
-
-
-
 
 
 
