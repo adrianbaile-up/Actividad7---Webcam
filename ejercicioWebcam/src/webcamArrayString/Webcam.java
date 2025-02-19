@@ -105,7 +105,7 @@ package webcamArrayString;
      
      /**
       * Obtiene el ancho de la resolucion
-      * @return ancho. El ancho de la resolucion, en tipo numerico entero
+      * @return anchoResolucion. El ancho de la resolucion, en tipo numerico entero
       */
 
     public int getAnchoResolucion(){
@@ -117,7 +117,7 @@ package webcamArrayString;
 
       /**
       * Obtiene el alto de la resolucion
-      * @return alto. El alto de la resolucion, en tipo numerico entero
+      * @return altoResolucion. El alto de la resolucion, en tipo numerico entero
       */
 
     public int getAltoResolucion(){
